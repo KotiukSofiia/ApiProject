@@ -20,11 +20,11 @@ dotnet run
 ```
 
 * Після запуску, сервер буде доступний за адресою:
-http://localhost:5000
-https://localhost:7000
+  - http://localhost:5000
+  - https://localhost:7000
 
 * API можна переглянути через Swagger UI, відкривши в браузері:
-https://localhost:7000/swagger
+  - https://localhost:7000/swagger
 
 * Також, Postman-колекція доступна за цим посиланням:
   [Postman Docs](https://documenter.getpostman.com/view/41829257/2sAYX6phDs)
